@@ -50,6 +50,6 @@ jobs:
           builder: ${{ steps.buildx.outputs.name }}
           context: .
           push: true
-          target: linux/arm64,linux/amd64
+          platform: linux/arm64,linux/amd64
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
