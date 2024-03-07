@@ -6,7 +6,7 @@ git+https://github.com/XYenon/efb-qq-plugin-go-cqhttp
 cairosvg
 lottie
 git+https://github.com/xzsk2/efb-filter-middleware
-efb-patch-middleware
+git+https://github.com/Ovler-Young/efb-patch-middleware
 efb-mp-instantview-middleware
 efb-voice_recog-middleware
 efb-notice-middleware
