@@ -1,8 +1,6 @@
 git+https://github.com/ehForwarderBot/ehForwarderBot
 git+https://github.com/Ovler-Young/efb-telegram-master
-git+https://github.com/Ovler-Young/efb-telegram-master.git@compress-gif-for-wechat
 git+https://github.com/Ovler-Young/efb-wechat-slave
-git+https://github.com/Ovler-Young/efb-wechat-slave.git@gif-compression
 git+https://github.com/milkice233/efb-qq-slave@master
 git+https://github.com/XYenon/efb-qq-plugin-go-cqhttp
 cairosvg
