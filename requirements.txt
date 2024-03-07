@@ -1,5 +1,13 @@
-ehforwarderbot==2.1.1
-efb-wechat-slave
+git+https://github.com/ehForwarderBot/ehForwarderBot
+git+https://github.com/Ovler-Young/efb-telegram-master
+git+https://github.com/Ovler-Young/efb-telegram-master.git@compress-gif-for-wechat
+git+https://github.com/Ovler-Young/efb-wechat-slave
+git+https://github.com/Ovler-Young/efb-wechat-slave.git@gif-compression
+git+https://github.com/milkice233/efb-qq-slave@master
+git+https://github.com/XYenon/efb-qq-plugin-go-cqhttp
+cairosvg
+lottie
+git+https://github.com/xzsk2/efb-filter-middleware
 efb-patch-middleware
 efb-mp-instantview-middleware
 efb-voice_recog-middleware
@@ -7,9 +15,3 @@ efb-notice-middleware
 efb-msg_blocker-middleware
 efb-search_msg-middleware
 efb-link-preview-middleware
-git+https://github.com/milkice233/efb-qq-slave@master
-git+https://github.com/ehForwarderBot/efb-telegram-master
-git+https://github.com/XYenon/efb-qq-plugin-go-cqhttp
-git+https://github.com/xzsk2/efb-filter-middleware
-cairosvg
-lottie
