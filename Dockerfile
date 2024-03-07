@@ -19,6 +19,7 @@ RUN apk update -f && \
     git \
     freetype-dev \
     openjpeg-dev \
+    gifsicle \
     cairo-dev && \
     pip install --no-cache-dir -r requirements.txt && \
     rm -rf /var/cache/apk/* && \
