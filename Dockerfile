@@ -22,7 +22,7 @@ RUN apk update -f && \
     gifsicle \
     cairo-dev && \
     pip install --no-cache-dir -r requirements.txt && \
-    pip uninstall werkzeug && \
+    pip uninstall -y werkzeug && \
     pip install werkzeug==2.3.0 && \
     rm -rf /var/cache/apk/* && \
     rm -rf ~/.cache && \
