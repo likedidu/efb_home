@@ -12,4 +12,4 @@ efb-voice_recog-middleware
 efb-notice-middleware
 efb-msg_blocker-middleware
 efb-search_msg-middleware
-efb-link-preview-middleware
+git+https://github.com/Ovler-Young/efb-link_preview-middleware
