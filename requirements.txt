@@ -2,7 +2,7 @@ ehforwarderbot==2.1.1
 git+https://github.com/Ovler-Young/efb-telegram-master
 git+https://github.com/Ovler-Young/efb-wechat-slave
 git+https://github.com/milkice233/efb-qq-slave@master
-git+https://github.com/XYenon/efb-qq-plugin-go-cqhttp
+git+https://github.com/milkice233/efb-qq-plugin-mirai
 cairosvg
 lottie
 git+https://github.com/xzsk2/efb-filter-middleware
@@ -13,3 +13,4 @@ efb-notice-middleware
 efb-msg_blocker-middleware
 efb-search_msg-middleware
 git+https://github.com/Ovler-Young/efb-link_preview-middleware
+
